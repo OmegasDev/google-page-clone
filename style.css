@@ -181,7 +181,7 @@ body {
 @media (max-width: 600px) {
     .header-links a {
         font-size: 12px;
-        margin-right: 10px;
+        margin-right: 9px;
     }
 
     .logo img {
